@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 **To what section of the L3 does the question or change apply?**
-A clear and concise description of what you expected to happen.
+A clear and concise description of the section of the L3 framework you are referring to.
 
 **Summarize the question or change**
-A clear and concise description of what the issue is.
+A clear and concise description of the question or requested change.
 
 **Screenshots of text or visuals for context (nice to have)**
 If applicable, add screenshots to help explain your problem.

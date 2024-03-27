@@ -3,7 +3,7 @@ name: 'General: Question, Comment, or Change'
 about: Use this template to suggest a change or ask a question *not* related to the
   L2 DAK or L3.
 title: ''
-labels: question
+labels: ''
 assignees: ''
 
 ---
